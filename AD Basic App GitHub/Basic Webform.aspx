@@ -12,6 +12,9 @@
             <%AD_Basic_App_GitHub.Class1 tp = new AD_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
         </div>
+        <div>
+            Hello VS to Git in Azure DevOps!
+        </div>
     </form>
 </body>
 </html>
