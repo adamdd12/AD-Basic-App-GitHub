@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AD Basic App GitHub", "AD Basic App GitHub\AD Basic App GitHub.csproj", "{54AD2F5E-BA46-42FB-AAC5-7E24D2601BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{ADBBAF30-A14F-4630-BC2D-CCF79F940440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AD2F5E-BA46-42FB-AAC5-7E24D2601BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AD2F5E-BA46-42FB-AAC5-7E24D2601BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AD2F5E-BA46-42FB-AAC5-7E24D2601BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AD2F5E-BA46-42FB-AAC5-7E24D2601BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBBAF30-A14F-4630-BC2D-CCF79F940440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBBAF30-A14F-4630-BC2D-CCF79F940440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBBAF30-A14F-4630-BC2D-CCF79F940440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBBAF30-A14F-4630-BC2D-CCF79F940440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6009758-91B0-4903-8B9F-C6DA42C110E9}
+	EndGlobalSection
+EndGlobal
